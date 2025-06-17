@@ -1,0 +1,6 @@
+pandas
+dnslib
+openpyxl
+tk
+flask
+werkzeug
